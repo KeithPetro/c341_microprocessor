@@ -66,3 +66,7 @@ libfreetype.so
 libfreetype.so.6
 libfreetype.so.6.10.2
 ```
+
+Make sure that `libfreetype.so.6` is a link to `libfreetype.so.6.10.2` and `libfreetype.so` is a link to `libfreetype.so.6`.
+
+6) 
