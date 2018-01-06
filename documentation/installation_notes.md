@@ -2,6 +2,8 @@
 Please note that this installation documentation is by no means exhaustive. If you run into any issues during the installation process, or find any distro-specific requirements, please open an issue and let us know.
 
 ## Linux
+These are the steps necessary after installing ModelSim (using Altera's installation procedure) in order to allow ModelSim to run on Linux. These steps allow the use of newer kernels as well as get all necessary dependencies which are not automatically installed.
+
 ### Debian Stretch
 _tested on kernel 4.9.0 x64_
 
