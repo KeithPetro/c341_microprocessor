@@ -71,4 +71,8 @@ libfreetype.so.6.10.2
 
 Make sure that `libfreetype.so.6` is a link to `libfreetype.so.6.10.2` and `libfreetype.so` is a link to `libfreetype.so.6`.
 
-6) 
+6) Install libbz2-1.0 for 32-bit architecture.
+
+```
+sudo apt-get install libbz2-1.0:i386
+```
